@@ -1,0 +1,15 @@
+{
+  "name": "navbar-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass --watch ./app.scss:./style.css"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.49.4"
+  }
+}
